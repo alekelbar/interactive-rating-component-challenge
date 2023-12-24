@@ -114,6 +114,7 @@ body {
 
   /* miselaneos */
   list-style: none;
+  transition: all 0.5s;
 }
 
 .form__list-item:hover {
@@ -145,6 +146,7 @@ body {
   background-color: var(--Orange);
   color: var(--White);
   /* Miscelánea */
+  transition: all 0.5s;
 }
 
 .form-submit:hover {
